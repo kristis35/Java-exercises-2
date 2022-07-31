@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Kristijonas_Projektas","l":"Darbininkas"},{"p":"Kristijonas_Projektas","l":"DiskreciosProjektas"},{"p":"Kristijonas_Projektas","l":"DynamicArray"},{"p":"Kristijonas_Projektas","l":"DynamicArrayPerformance"},{"p":"GUI","l":"GUI"},{"p":"Kristijonas_Projektas","l":"IDynamicArray"}];updateSearchResults();
